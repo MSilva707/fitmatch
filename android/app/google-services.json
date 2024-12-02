@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761905495926",
+    "project_id": "crudapp-1111",
+    "storage_bucket": "crudapp-1111.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761905495926:android:96c1c156b30e319a510457",
+        "android_client_info": {
+          "package_name": "com.ceduc.crudapp_1111"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUExAdk0xtZ6YL6L0fuyBpmQSyyjsqS3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
